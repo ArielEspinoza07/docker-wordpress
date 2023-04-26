@@ -2,7 +2,7 @@
 
 ## Configuration
 
-### ENV
+### ENV FILE
     
     create .env file from .env.example
 
