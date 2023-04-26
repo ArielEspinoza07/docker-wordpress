@@ -1,0 +1,7 @@
+/data
+/logs
+/src/*
+
+.docker/nginx/wordpress.conf
+
+.env
